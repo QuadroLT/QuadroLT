@@ -2,7 +2,7 @@
 - 👀 I’m interested in python development / datascience.
 - 🌱 I’m currently learning some data cleaning authomation etc.
 - 💞️ I’m looking to collaborate on some small automation ML projects, some chemistry may be involved.
-- 📫 How to reach me via this GitHub account.
+- 📫 Reach out for me via this GitHub account.
 
 <!---
 QuadroLT/QuadroLT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
